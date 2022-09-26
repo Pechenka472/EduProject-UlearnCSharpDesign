@@ -1,0 +1,12 @@
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\bin\Debug\ReportMaker.cs
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\bin\Debug\Incapsulation.Failures.exe.config
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\bin\Debug\Incapsulation.Failures.exe
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\bin\Debug\Incapsulation.Failures.pdb
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\bin\Debug\nunit.framework.dll
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\bin\Debug\nunitlite.dll
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\obj\Debug\Incapsulation.Failures.csproj.AssemblyReference.cache
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\obj\Debug\Incapsulation.Failures.csproj.SuggestedBindingRedirects.cache
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\obj\Debug\Incapsulation.Failures.exe
+D:\MorozovAndreAndreevich\Project\EduProject-UlearnCSharpDesign\failures\obj\Debug\Incapsulation.Failures.pdb
